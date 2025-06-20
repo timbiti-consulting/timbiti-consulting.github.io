@@ -7,31 +7,31 @@ function Team() {
       <Title title="Meet Our Team" />
       <div className="container grid grid-cols-1 gap-6 px-4 py-16 md:grid-cols-3">
         <ProfileCard
-          name="Boris Alladassi"
+          name="Dr. Boris Mahule Elyse Alladassi (PhD)"
           imageUrl="/profile_pictures/boris_alladassi.png"
           title="Director of Scientific Research and Evaluation"
           profileUrl="/team/boris-alladassi"
         />
         <ProfileCard
-          name="Dr. Samuel Ikendi"
+          name="Dr. Ikendi Samuel (PhD)"
           imageUrl="/profile_pictures/samuel_ikendi.jpg"
           title="Director of Monitoring, Evaluation, and Learning"
           profileUrl="/team/samuel-ikendi"
         />
         <ProfileCard
-          name="Dr. Brian Zebosi"
+          name="Dr. Brian Zebosi (PhD)"
           imageUrl="/profile_pictures/brian_zebosi.jpg"
           title="Deputy Director of Scientific and Evaluation"
           profileUrl="/team/brian-zebosi"
         />
         <ProfileCard
-          name="Dr. Lillian Nabwiire"
+          name="Dr. Lillian Nabwiire (PhD)"
           imageUrl="/profile_pictures/lillian_nabwiire.jpg"
           title="Senior Research Scientist and Extension Educator in Food Safety"
           profileUrl="/team/lillian-nabwiire"
         />
         <ProfileCard
-          name="Dr. Hellen Ninsiima Kayaga"
+          name="Dr. Hellen Ninsiima Kayaga (PhD)"
           imageUrl="/profile_pictures/hellen_kayaga.jpg"
           title="Senior Research and Evaluation Specialist"
           profileUrl="/team/hellen-kayaga"
